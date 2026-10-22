@@ -4,4 +4,4 @@
 
 ## We can track details like timing (when payment is made) and it performs automatic calculations of all metrics like total money sent and total money received, total outstanding money, overpaid amount etc.
 
-## Youu can access your data through multiple devices using same google account.
+## You can access your data through multiple devices using same google account.
